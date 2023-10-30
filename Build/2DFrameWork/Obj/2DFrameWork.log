@@ -1,0 +1,106 @@
+﻿  Camera.cpp
+  Direct3D11.cpp
+  Dwrite.cpp
+  GameObject.cpp
+  Gui.cpp
+  Input.cpp
+  Light.cpp
+  ObCircle.cpp
+  ObImage.cpp
+  ObIso.cpp
+  ObLine.cpp
+  ObRect.cpp
+  ObStar.cpp
+  ObTileMap.cpp
+  Random.cpp
+  SceneManager.cpp
+  Shader.cpp
+  Sound.cpp
+  Texture.cpp
+  Timer.cpp
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\Framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Direct3D11.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Dwrite.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\Framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Gui.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Camera.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 GameObject.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Input.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObCircle.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Texture.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObStar.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Sound.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObRect.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Light.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Timer.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObLine.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObImage.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Shader.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Random.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 SceneManager.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 ObIso.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\Dwrite.cpp(174,5): warning C4267: '인수': 'size_t'에서 'UINT32'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(84,48): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(86,47): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(113,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(115,28): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(156,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(157,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(166,33): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2541,23): warning C4244: '인수': 'wchar_t'에서 'const _Elem'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Elem=char
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_InIt>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _InIt=wchar_t *,
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2552): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_InIt>(_Iter,const _Iter,std::input_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _InIt=wchar_t *,
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_InIt>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _InIt=wchar_t *,
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(2532): message : 컴파일되는 함수 템플릿 인스턴스화 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct<_InIt>(const _Iter,const _Iter,std::forward_iterator_tag)'에 대한 참조를 확인하세요.
+          with
+          [
+              _InIt=wchar_t *,
+              _Iter=wchar_t *
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(3260): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *,
+              _Alloc=std::allocator<char>
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\xstring(3260): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<wchar_t*,0>(_Iter,_Iter,const _Alloc &)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Iter=wchar_t *,
+              _Alloc=std::allocator<char>
+          ] (소스 파일 컴파일 중 ObTileMap.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(269): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\ObTileMap.cpp(269): message : 컴파일되는 함수 템플릿 인스턴스화 'std::basic_string<char,std::char_traits<char>,std::allocator<char>> &std::basic_string<char,std::char_traits<char>,std::allocator<char>>::assign<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(const _Iter,const _Iter)'에 대한 참조를 확인하세요.
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>
+          ]
+  Utility.cpp
+  Window.cpp
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Utility.cpp)
+C:\Users\Moon In Su\Desktop\Framework\2DFrameWork\Framework.h(13,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다. (소스 파일 컴파일 중 Window.cpp)
+  2DFrameWork.vcxproj -> C:\Users\Moon In Su\Desktop\Framework\Build\2DFrameWork\2DFrameWork.lib

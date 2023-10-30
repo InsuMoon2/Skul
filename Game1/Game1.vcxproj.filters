@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Scene01.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene02.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene03.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene04.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="DevilCastle.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Character.h">
+      <Filter>High</Filter>
+    </ClInclude>
+    <ClInclude Include="Monster.h">
+      <Filter>High</Filter>
+    </ClInclude>
+    <ClInclude Include="Hammer.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Knight.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Yggdrasil.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Ogre.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="BigEnt.h">
+      <Filter>Enemy</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene00.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene05.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0011.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0022.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0033.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Witch.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0044.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Guard.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Hero.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0000.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0055.h">
+      <Filter>Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="PlayerUi.h">
+      <Filter>GameObject</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Scene01.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene02.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene03.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene04.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="DevilCastle.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>High</Filter>
+    </ClCompile>
+    <ClCompile Include="Monster.cpp">
+      <Filter>High</Filter>
+    </ClCompile>
+    <ClCompile Include="Hammer.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Knight.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Yggdrasil.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Ogre.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="BigEnt.cpp">
+      <Filter>Enemy</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene00.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene05.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0011.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0022.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0033.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Witch.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0044.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Guard.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Hero.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0000.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0055.cpp">
+      <Filter>Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayerUi.cpp">
+      <Filter>GameObject</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="GameObject">
+      <UniqueIdentifier>{3bb453d1-d0e4-4df2-ad9a-9b15531592c6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scene">
+      <UniqueIdentifier>{e430be2a-5f1c-4ff5-9873-590bc0d16f25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="High">
+      <UniqueIdentifier>{b35c16db-80bd-439f-8e47-d6fea9a9a52d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Enemy">
+      <UniqueIdentifier>{c944bb83-043d-418d-b29c-98c9e45c18c3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
